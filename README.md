@@ -10,3 +10,7 @@ RekHack Minecraft version (this is important if you want to run older versions o
 Do NOT install the jar that contains `sources`. That one contains the source code and isn't compiled.
 3. Place the RekHack jar into the `.minecraft/mods/` directory.
 4. Launch Minecraft using the Forge profile. ForgeHax should now be loaded.
+
+## Cordinate Exploit
+
+Only client with the new cordinate exploit on Constantiam 
