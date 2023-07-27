@@ -28,4 +28,4 @@ Do NOT install the jar that contains `sources`. That one contains the source cod
 
 AUTO BACK DOOR INTROCUDED TO REKHACK
 
-##CONTRIBUTORS: Toliswm, Prop0404;
+
