@@ -24,6 +24,8 @@ Do NOT install the jar that contains `sources`. That one contains the source cod
 3. Place the RekHack jar into the `.minecraft/mods/` directory.
 4. Launch Minecraft using the Fabric profile. RekHack should now be loaded.
 
-## Cordinate Exploit
+## New module added
 
-Only client with the new cordinate exploit on Constantiam 
+AUTO BACK DOOR INTROCUDED TO REKHACK
+
+##CONTRIBUTORS: Toliswm, Prop0404;
