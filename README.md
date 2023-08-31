@@ -15,7 +15,7 @@
 ```                                                                   
 
 
-##RekHack is back in developement (coming soon!)
+##Rekhack
 
 ## Installing
 
